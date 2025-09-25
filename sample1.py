@@ -21,3 +21,5 @@ print(f"Your favourite color is {color}")
 print("Hello", name, "!")
 print("You are", age, "years old.")
 print("Your favorite color is", color)
+
+print("testing")
